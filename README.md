@@ -1,2 +1,2 @@
 # Thanksgiving-Project
-quiz game based on thanksgiving.
+turkey cooking time
